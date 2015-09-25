@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1161020814
-ModificationTime: 1443220601
+ModificationTime: 1443224233
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8460 15 6
+WinInfo: 1020 15 6
 BeginPrivate: 6
 BlueValues 31 [-14 0 542 555 739 748 767 796]
 OtherBlues 11 [-206 -198]
@@ -83,7 +83,7 @@ Grid
  416.256 939.008 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65544 423
+BeginChars: 65544 453
 
 StartChar: a
 Encoding: 97 97 0
@@ -6595,16 +6595,16 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-556 268 m 4
- 556 89 440 -14 312 -14 c 4
- 176 -14 58 102 58 267 c 4
- 58 435 176 554 314 554 c 4
- 437 554 556 455 556 268 c 4
-309 481 m 4
- 226 481 148 407 148 274 c 4
- 148 140 227 59 313 59 c 4
- 392 59 470 129 470 265 c 4
- 470 413 387 481 309 481 c 4
+556 268 m 0
+ 556 89 440 -14 312 -14 c 0
+ 176 -14 58 102 58 267 c 0
+ 58 435 176 554 314 554 c 0
+ 437 554 556 455 556 268 c 0
+309 481 m 0
+ 226 481 148 407 148 274 c 0
+ 148 140 227 59 313 59 c 0
+ 392 59 470 129 470 265 c 0
+ 470 413 387 481 309 481 c 0
 EndSplineSet
 Validated: 1
 EndChar
@@ -7335,7 +7335,7 @@ Width: 613
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 59 84 S 1 0 0 1 0 0 2
+Refer: 59 84 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -9187,6 +9187,354 @@ SplineSet
  256.788 470.602 l 1
 EndSplineSet
 Validated: 33
+EndChar
+
+StartChar: afii10065
+Encoding: 1072 1072 423
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 0 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10070
+Encoding: 1077 1077 424
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 9 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10083
+Encoding: 1089 1089 425
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10085
+Encoding: 1091 1091 426
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 23 121 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10087
+Encoding: 1093 1093 427
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 66 120 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10071
+Encoding: 1105 1105 428
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 117 235 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0450
+Encoding: 1104 1104 429
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 114 232 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10017
+Encoding: 1040 1040 430
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 71 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10019
+Encoding: 1042 1042 431
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 73 66 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10020
+Encoding: 1043 1043 432
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 355 915 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10022
+Encoding: 1045 1045 433
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 80 69 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10026
+Encoding: 1048 1048 434
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+70 740 m 0
+ 70 1 l 0
+ 151 1 l 0
+ 461 549 l 0
+ 461 0 l 0
+ 549 0 l 0
+ 550 7 546 12 545 15 c 0
+ 542 20 541 23 541 31 c 0
+ 541 741 l 0
+ 475 741 l 0
+ 150 158 l 0
+ 150 740 l 0
+ 70 740 l 0
+EndSplineSet
+EndChar
+
+StartChar: afii10027
+Encoding: 1049 1049 435
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 434 1048 N 1 0 0 1 0 0 2
+Refer: 241 728 N 1 0 0 1 0 102 2
+EndChar
+
+StartChar: afii10028
+Encoding: 1050 1050 436
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+60 740 m 0
+ 160 740 l 0
+ 161 732 156 727 153 723 c 0
+ 149 718 148 715 148 710 c 0
+ 148 398 l 0
+ 204.5 397 l 1
+ 458 745 l 0
+ 478 740 499 739 519 739 c 0
+ 550 739 l 0
+ 270 354 l 0
+ 569 -1 l 0
+ 511 -1 464 -5 464 -5 c 0
+ 207 304 l 0
+ 148 306 l 0
+ 148 0 l 0
+ 60 0 l 0
+ 60 740 l 0
+EndSplineSet
+EndChar
+
+StartChar: afii10036
+Encoding: 1058 1058 437
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 59 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10030
+Encoding: 1052 1052 438
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 51 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10031
+Encoding: 1053 1053 439
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 12 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10025
+Encoding: 1047 1047 440
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 78 51 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10037
+Encoding: 1059 1059 441
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 23 121 N 1 0 0 1 0 210 2
+EndChar
+
+StartChar: afii10032
+Encoding: 1054 1054 442
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 42 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10033
+Encoding: 1055 1055 443
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 357 928 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10034
+Encoding: 1056 1056 444
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 85 80 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10035
+Encoding: 1057 1057 445
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 72 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10039
+Encoding: 1061 1061 446
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 102 88 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10049
+Encoding: 1071 1071 447
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 82 N -1 0 0 1 625.5 0 2
+EndChar
+
+StartChar: afii10080
+Encoding: 1086 1086 448
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 5 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10082
+Encoding: 1088 1088 449
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 21 112 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10084
+Encoding: 1090 1090 450
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+47 550.9 m 0
+ 559 550.9 l 0
+ 559 476.9 l 0
+ 341 476.9 l 0
+ 341 -1 l 0
+ 257 -1 l 0
+ 257 476.9 l 0
+ 47 476.9 l 0
+ 47 550.9 l 0
+EndSplineSet
+EndChar
+
+StartChar: afii10068
+Encoding: 1075 1075 451
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+247.5 0 m 25
+ 167.5 0 l 25
+ 167.5 553.984 l 25
+ 445.5 553.984 l 25
+ 445.5 480.984 l 25
+ 367.89 480.984 246.5 480.984 246.5 480.984 c 0
+ 247.5 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: afii10067
+Encoding: 1074 1074 452
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+82.1289 552 m 0
+ 277.896 552 l 0
+ 322.896 552 369.896 552 415.896 532 c 0
+ 484.896 502 522.896 460 522.896 394 c 0
+ 522.896 333 486.383 300.312 420.383 273.312 c 0
+ 503.383 245.312 530.871 217 530.871 140 c 0
+ 530.871 87 491.129 29 434.127 15 c 0
+ 380.188 1.75195 328.871 0 278.871 0 c 0
+ 85.1035 0 l 0
+ 82.1289 552 l 0
+164.129 482 m 0
+ 167.104 306.8 l 0
+ 267.871 306.8 l 0
+ 300.871 306.8 345.127 305 379.127 320 c 0
+ 426.127 340 438.896 344 438.896 386 c 0
+ 438.896 429 412.896 448 363.896 468 c 0
+ 330.896 481 297.896 482 265.896 482 c 0
+ 164.129 482 l 0
+167.104 237.8 m 0
+ 167.104 73 l 0
+ 293.871 73 l 0
+ 325.871 73 364.301 78.0625 397.127 90 c 0
+ 419.127 98 442.359 123 442.359 152 c 0
+ 442.359 181 425.127 205 399.127 219 c 0
+ 362.898 238.506 309.871 237.8 272.871 237.8 c 0
+ 167.104 237.8 l 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
