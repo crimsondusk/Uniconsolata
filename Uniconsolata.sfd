@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1161020814
-ModificationTime: 1443228366
+ModificationTime: 1443229608
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1035 15 6
+WinInfo: 1245 15 6
 BeginPrivate: 6
 BlueValues 31 [-14 0 542 555 739 748 767 796]
 OtherBlues 11 [-206 -198]
@@ -83,7 +83,7 @@ Grid
  416.256 939.008 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65544 478
+BeginChars: 65544 511
 
 StartChar: a
 Encoding: 97 97 0
@@ -3138,7 +3138,6 @@ LayerCount: 2
 Fore
 Refer: 139 168 S 1 0 0 1 0 0 2
 Refer: 5 111 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: oslash
@@ -4025,7 +4024,6 @@ LayerCount: 2
 Fore
 Refer: 195 -1 S 1 0 0 1 -31 141 2
 Refer: 80 69 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: Eacute
@@ -10102,6 +10100,323 @@ SplineSet
  430.535 257.086 382.211 314.718 310.211 314.718 c 0
  192.789 315.392 l 0
 EndSplineSet
+EndChar
+
+StartChar: uni0400
+Encoding: 1024 1024 478
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 168 200 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10023
+Encoding: 1025 1025 479
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 171 203 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10052
+Encoding: 1027 1027 480
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 0 141 2
+Refer: 432 1043 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10054
+Encoding: 1029 1029 481
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 50 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10055
+Encoding: 1030 1030 482
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 4 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10056
+Encoding: 1031 1031 483
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 175 207 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10057
+Encoding: 1032 1032 484
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 83 74 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10061
+Encoding: 1036 1036 485
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 194 -1 N 1 0 0 1 0 141 2
+Refer: 436 1050 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni040D
+Encoding: 1037 1037 486
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 195 -1 N 1 0 0 1 -31 141 2
+Refer: 434 1048 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10062
+Encoding: 1038 1038 487
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 241 728 N 1 0 0 1 0 102 2
+Refer: 441 1059 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10100
+Encoding: 1107 1107 488
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 107 180 N 1 0 0 1 0 0 2
+Refer: 451 1075 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10103
+Encoding: 1110 1110 489
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 17 105 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10104
+Encoding: 1111 1111 490
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 134 239 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10105
+Encoding: 1112 1112 491
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 65 106 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04D2
+Encoding: 1234 1234 492
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 167 196 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04D3
+Encoding: 1235 1235 493
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 112 228 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04D4
+Encoding: 1236 1236 494
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 208 198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04D5
+Encoding: 1237 1237 495
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 192 230 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04E5
+Encoding: 1253 1253 496
+Width: 613
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 460 1080 S 1 0 0 1 0 0 2
+Refer: 139 168 N 1 0 0 1 0 -42 2
+EndChar
+
+StartChar: uni04D6
+Encoding: 1238 1238 497
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 241 728 S 1 0 0 1 0 138 2
+Refer: 433 1045 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04D7
+Encoding: 1239 1239 498
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 241 728 N 1 0 0 1 -0.5 -24 2
+Refer: 424 1077 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04DE
+Encoding: 1246 1246 499
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 139 168 S 1 0 0 1 0 102 2
+Refer: 440 1047 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04E3
+Encoding: 1251 1251 500
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 460 1080 N 1 0 0 1 0 0 2
+Refer: 199 175 N 1 0 0 1 0.164413 3.75201 2
+EndChar
+
+StartChar: uni04E2
+Encoding: 1250 1250 501
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 434 1048 N 1 0 0 1 0 0 2
+Refer: 199 175 N 1 0 0 1 0.164413 199 2
+EndChar
+
+StartChar: uni04E4
+Encoding: 1252 1252 502
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 434 1048 N 1 0 0 1 0 0 2
+Refer: 139 168 N 1 0 0 1 0 146 2
+EndChar
+
+StartChar: uni04EC
+Encoding: 1260 1260 503
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 139 168 N 1 0 0 1 0 102 2
+Refer: 468 1069 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04ED
+Encoding: 1261 1261 504
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 139 168 S 1 0 0 1 0 -76 2
+Refer: 471 1101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04EE
+Encoding: 1262 1262 505
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 199 175 N 1 0 0 1 0.164413 199.752 2
+Refer: 441 1059 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04F0
+Encoding: 1264 1264 506
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 139 168 S 1 0 0 1 0 154.308 2
+Refer: 441 1059 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04EF
+Encoding: 1263 1263 507
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 199 175 N 1 0 0 1 0.164413 -0.247986 2
+Refer: 426 1091 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04F1
+Encoding: 1265 1265 508
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 139 168 S 1 0 0 1 0 -76 2
+Refer: 426 1091 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04F8
+Encoding: 1272 1272 509
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 139 168 N 1 0 0 1 0 154.308 2
+Refer: 476 1067 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni04F9
+Encoding: 1273 1273 510
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 139 168 N 1 0 0 1 0 -76 2
+Refer: 456 1099 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
