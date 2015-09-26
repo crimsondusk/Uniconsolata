@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1161020814
-ModificationTime: 1443226978
+ModificationTime: 1443227508
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1035 15 6
+WinInfo: 1050 15 6
 BeginPrivate: 6
 BlueValues 31 [-14 0 542 555 739 748 767 796]
 OtherBlues 11 [-206 -198]
@@ -83,7 +83,7 @@ Grid
  416.256 939.008 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65544 468
+BeginChars: 65544 472
 
 StartChar: a
 Encoding: 97 97 0
@@ -2192,10 +2192,10 @@ SplineSet
  534 740 l 0
  534 667 l 0
  159 667 l 0
- 159 424 l 0
- 468 424 l 0
- 468 348 l 0
- 159 348 l 0
+ 159 424 l 4
+ 468 424 l 4
+ 468 348 l 4
+ 159 348 l 4
  159 74 l 0
  530 74 l 0
  530 0 l 0
@@ -9285,7 +9285,7 @@ Width: 613
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 80 69 S 1 0 0 1 0 0 2
+Refer: 80 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: afii10026
@@ -9895,6 +9895,76 @@ SplineSet
  180.5 553.984 l 1
  179.5 73 l 1
  430.5 73 l 1
+EndSplineSet
+EndChar
+
+StartChar: afii10047
+Encoding: 1069 1069 468
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+478.984 348 m 1
+ 272.5 348 l 0
+ 272.5 424 l 0
+ 477.236 424 l 1
+ 462.571 588.026 377.028 679 281.5 679 c 0
+ 223.5 679 170.5 645 140.5 593 c 0
+ 138.5 589 135.5 587 135.5 581 c 0
+ 135.5 578 136.5 575 136.5 572 c 0
+ 136.5 571 136.5 564 131.5 560 c 0
+ 52.5 599 l 0
+ 92.5 688 180.5 745 278.5 745 c 0
+ 393.5 745 560.5 661 560.5 365 c 0
+ 560.5 79 401.5 -12 279.5 -12 c 0
+ 191.5 -12 108.5 34 62.5 110 c 0
+ 123.5 150 l 0
+ 157.5 94 216.5 59 274.5 59 c 0
+ 378.873 59 471.323 163.529 478.984 348 c 1
+EndSplineSet
+EndChar
+
+StartChar: afii10053
+Encoding: 1028 1028 469
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 468 1069 N -1 0 0 1 613 0 2
+EndChar
+
+StartChar: afii10101
+Encoding: 1108 1108 470
+Width: 613
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 471 1101 N -1 0 0 1 613 0 2
+EndChar
+
+StartChar: afii10095
+Encoding: 1101 1101 471
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+453.171 239.392 m 1
+ 263 239.392 l 0
+ 263 315.392 l 0
+ 453.712 315.392 l 1
+ 440.14 418.322 367.108 480 277 480 c 0
+ 184 480 140 415 137 409 c 0
+ 132 400 138 389 129 382 c 0
+ 69 453 l 0
+ 112 516 185 553 272 553 c 0
+ 431 553 544 434 544 271 c 0
+ 544 108 430 -13 277 -13 c 0
+ 201 -13 129 17 77 73 c 0
+ 126 130 l 0
+ 163 88 216 63 270 63 c 0
+ 364.304 63 438.049 134.244 453.171 239.392 c 1
 EndSplineSet
 EndChar
 EndChars
