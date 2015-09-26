@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1161020814
-ModificationTime: 1443226018
+ModificationTime: 1443226410
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -83,7 +83,7 @@ Grid
  416.256 939.008 l 25
 EndSplineSet
 TeXData: 1 0 0 629145 314572 209715 554697 1048576 209715 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65544 456
+BeginChars: 65544 462
 
 StartChar: a
 Encoding: 97 97 0
@@ -9318,7 +9318,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 434 1048 N 1 0 0 1 0 0 2
-Refer: 241 728 N 1 0 0 1 0 102 2
+Refer: 241 728 S 1 0 0 1 0 102 2
 EndChar
 
 StartChar: afii10028
@@ -9613,6 +9613,142 @@ SplineSet
  319.393 63 370.217 84 370.217 157 c 0
  370.217 216 321.893 240.108 249.893 240.108 c 0
  139.217 240 l 0
+EndSplineSet
+EndChar
+
+StartChar: afii10079
+Encoding: 1085 1085 456
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+534.001 553.984 m 0
+ 534 -1 l 0
+ 450 -1 l 0
+ 449.999 244.393 l 0
+ 160.999 244.393 l 0
+ 161 0 l 0
+ 75 0 l 0
+ 75 553.984 l 0
+ 161.003 553.984 l 0
+ 160.999 315.393 l 0
+ 450.999 315.393 l 0
+ 451 553.984 l 1
+ 534.001 553.984 l 0
+EndSplineSet
+EndChar
+
+StartChar: afii10078
+Encoding: 1084 1084 457
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+58 553.984 m 0
+ 163 553.984 l 0
+ 307 118 l 0
+ 459 553.984 l 0
+ 556 554.984 l 0
+ 556 -1 l 0
+ 477 -1 l 0
+ 477 372.984 l 0
+ 330 0 l 0
+ 278 0 l 0
+ 136 368.984 l 0
+ 136 -1 l 0
+ 58 -1 l 0
+ 58 553.984 l 0
+EndSplineSet
+EndChar
+
+StartChar: afii10081
+Encoding: 1087 1087 458
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+534 0 m 1
+ 455 0 l 1
+ 455 480.984 l 1
+ 159 480.984 l 1
+ 160 0 l 1
+ 80 0 l 1
+ 80 553.984 l 1
+ 534 553.984 l 1
+ 534 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: afii10074
+Encoding: 1080 1080 459
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+541 553.984 m 0
+ 475 553.984 l 0
+ 150 125 l 0
+ 150 552.984 l 0
+ 70 552.984 l 0
+ 70 1 l 0
+ 151 1 l 0
+ 461 397.5 l 0
+ 461 0 l 0
+ 541.916 0 l 0
+ 541 553.984 l 0
+EndSplineSet
+EndChar
+
+StartChar: afii10075
+Encoding: 1081 1081 460
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+541 553.984 m 0
+ 475 553.984 l 0
+ 150 125 l 0
+ 150 552.984 l 0
+ 70 552.984 l 0
+ 70 1 l 0
+ 151 1 l 0
+ 461 397.5 l 0
+ 461 0 l 0
+ 541.916 0 l 0
+ 541 553.984 l 0
+EndSplineSet
+Refer: 241 728 N 1 0 0 1 0 -60 2
+EndChar
+
+StartChar: afii10076
+Encoding: 1082 1082 461
+Width: 613
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+60 553.984 m 0
+ 160 553.984 l 0
+ 161 545.984 156 540.984 153 536.984 c 0
+ 149 531.984 148 528.984 148 523.984 c 0
+ 148 315.392 l 0
+ 244.5 315.392 l 1
+ 458 558.984 l 0
+ 478 553.984 499 552.984 519 552.984 c 0
+ 550 552.984 l 0
+ 320.5 272.392 l 0
+ 569 -1 l 0
+ 511 -1 464 -5 464 -5 c 0
+ 247 222.392 l 0
+ 148 223.392 l 0
+ 148 0 l 0
+ 60 0 l 0
+ 60 553.984 l 0
 EndSplineSet
 EndChar
 EndChars
